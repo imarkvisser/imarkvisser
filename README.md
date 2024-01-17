@@ -1,6 +1,6 @@
 Welcome to my profile 👋
 
-I’m currently working as a Site Reliability Engineer at Pandora Intelligence with a main focus on Observability.
+I’m currently working as a Site Reliability Engineer at Fullstaq with a main focus on Observability.
 
 ### Favourite Open-Source projects
 - <a href="https://github.com/prometheus/prometheus" target="blank">Prometheus</a>
