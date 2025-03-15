@@ -1,6 +1,7 @@
 Welcome to my profile 👋
 
-I’m currently working as Observability Engineer at HCS Company. Translating observability complexity into business value.
+I’m currently working as Observability Engineer at HCS Company. 
+Translating observability complexity into business value.
 
 ### Favourite Open-Source projects
 - <a href="https://github.com/prometheus/prometheus" target="blank">Prometheus</a>
