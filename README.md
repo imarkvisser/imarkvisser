@@ -1,6 +1,6 @@
 Welcome to my profile 👋
 
-I’m currently working as Observability Engineer at Nedap. 
+I’m currently working as Lead Observability Engineer at Nedap. 
 Translating observability complexity into business value.
 
 ### Favourite Open-Source projects
